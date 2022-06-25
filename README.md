@@ -1,6 +1,6 @@
 # A simple enviroment for Javascript TDD 
 
-A simple skelenton project to test Javascript.
+A simple skeleton project to test Javascript.
 
 Uses: Jasmine Spec Runner
 
