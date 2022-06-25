@@ -7,7 +7,7 @@ Uses: Jasmine Spec Runner
 ## To use
 
 * Download/Clone the repository
-* Oprn root folder and open SpecRunner.html
+* Open root folder and open SpecRunner.html
 
 I have included a simple math test just to show its working.
 This is what I use for my Javascript TDD.
